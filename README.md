@@ -20,7 +20,7 @@ manipulation using Pandas, and competence in SQL-based database management. It r
 a valuable opportunity to enhance skills in web scraping, data cleaning, and database design,
 underscoring the developer’s capabilities in these critical domains.
 
-###Tasks of the project:
+### Tasks of the project:
 1. Which type has more pokemon?
 2. Which region has introduced more pokemon?
 3. Top 10 strongest and weakest non legenday pokemon?(Excludes mega evolve)
